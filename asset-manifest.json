@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/pocketapp/static/css/main.281d4121.css",
+    "main.js": "/pocketapp/static/js/main.afb81cac.js",
+    "static/js/787.10465e0e.chunk.js": "/pocketapp/static/js/787.10465e0e.chunk.js",
+    "static/media/Group 2.png": "/pocketapp/static/media/Group 2.d329994e6a0f5b698894.png",
+    "static/media/youtube.jpg": "/pocketapp/static/media/youtube.abcbb271ab988c2be568.jpg",
+    "static/media/sssix.jpg": "/pocketapp/static/media/sssix.0a10dbb7880556bcab5a.jpg",
+    "static/media/ssfive.jpg": "/pocketapp/static/media/ssfive.418be480218e5d60763b.jpg",
+    "static/media/Screenshot 95.jpg": "/pocketapp/static/media/Screenshot 95.207eeed690d60b459493.jpg",
+    "static/media/ssthree.jpg": "/pocketapp/static/media/ssthree.691026bcaadcdeb7f2dd.jpg",
+    "static/media/ssfour.jpg": "/pocketapp/static/media/ssfour.647be60912723e783daa.jpg",
+    "static/media/sstwo.jpg": "/pocketapp/static/media/sstwo.02fc652dd7bc24704992.jpg",
+    "static/media/Ssone.jpg": "/pocketapp/static/media/Ssone.064b02542c90699e9a3a.jpg",
+    "static/media/ssseven.jpg": "/pocketapp/static/media/ssseven.df43ccd1db79e3491424.jpg",
+    "static/media/Screenshot 9.jpg": "/pocketapp/static/media/Screenshot 9.189afab50e32c449465f.jpg",
+    "static/media/Group1.png": "/pocketapp/static/media/Group1.19f8ea207062406f7d17.png",
+    "static/media/Group 111.png": "/pocketapp/static/media/Group 111.a6cfeb316feb308075ba.png",
+    "static/media/Maskgroup.png": "/pocketapp/static/media/Maskgroup.80842ba771dca9b4f269.png",
+    "static/media/Groupp.png": "/pocketapp/static/media/Groupp.007c3144efb4c5639ed1.png",
+    "static/media/pocketapp.PNG": "/pocketapp/static/media/pocketapp.eec31f11aa85aea81956.PNG",
+    "static/media/footer.png": "/pocketapp/static/media/footer.4215062968e043349b47.png",
+    "static/media/download 1.png": "/pocketapp/static/media/download 1.eafdf77548586faf58f7.png",
+    "static/media/box.png": "/pocketapp/static/media/box.9acb62ff9aa8d9ca1a32.png",
+    "index.html": "/pocketapp/index.html",
+    "main.281d4121.css.map": "/pocketapp/static/css/main.281d4121.css.map",
+    "main.afb81cac.js.map": "/pocketapp/static/js/main.afb81cac.js.map",
+    "787.10465e0e.chunk.js.map": "/pocketapp/static/js/787.10465e0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.281d4121.css",
+    "static/js/main.afb81cac.js"
+  ]
+}
