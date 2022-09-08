@@ -1,0 +1,514 @@
+@media (max-width: 600px) {
+    .home{
+        background: #743ff4;
+        height: 727px;
+        color: #fff;
+        text-align: center;
+        width: 100%;
+        z-index: -1;
+    }
+    .pocketapp{
+        height: 40px;
+    
+    }
+    .l-home{
+        padding-top: 60px;
+    }
+    .col-1{
+        display: none;
+    }
+    .col2{
+        padding-top: 30px;
+    }
+    .Groupone{
+        display: none;
+    }
+    .Group{
+        display: none;
+    }
+    .groupp{
+        z-index: 9;
+        display: block;
+        height: 245px;
+        margin-top: -350px;
+        position: absolute;
+        float: right;
+        right: 0px;
+        
+    }
+    .Grouptwo{
+        height: 300px;
+        padding-top: 90px;
+        position: relative;
+        z-index: 10;
+    }
+    .l-home h1{
+        font-size: 39px;
+        padding-top: 40px;
+    }
+    .mobile{
+        font-size: 15px;
+        font-weight: 100;
+        display: block;
+    }
+    .web{
+        display: none;
+    }
+    
+    .brands{
+        width: 100%;
+        text-align: center;
+        z-index: 10;
+        position: absolute;
+        background: #fff;
+        height: 300px;
+        align-content: center;
+    }
+    .screeshot{
+        height: 50px;
+        max-width: 100%;
+    }
+    .screenshot{
+        height: 45px;
+        max-width: 100%;
+    }
+    .youtube{
+        height: 130px;
+    }
+    
+    
+    
+    .section{
+        width: 100%;
+        text-align: center;
+        position: relative;
+        background: #fff;
+        padding-top: 300px;
+    }
+    .box{
+        height: 30px;
+    
+        position: sticky;
+        top: 15px;
+        width: 85%;
+        text-align: center;
+        background: rgb(230, 230, 230);
+        border-radius: 20px;
+        float: center;
+        padding: 5px;
+        margin-left: 22px;
+        margin-right: 5px;
+    }
+    .box>*{
+        text-align: center;
+    }
+    button{
+        height: 15px;
+        background: rgb(230, 230, 230);
+    }
+    button:hover{
+        color: #fff;
+        background: #743ff4;
+    
+    }
+    nav{
+        border-radius: 20px;
+        height: 30px;
+    }
+    .bn{
+        background: rgb(230, 230, 230);
+        border-radius: 20px;
+        border-style: none;
+        width: 20%;
+        font-weight: bold;
+        font-size: 11px;
+        text-align: center;
+        height: 25px;
+    }
+
+ 
+
+
+    .section p{
+        font-size: 12px;
+    }
+    .first_section img{
+        height: 320px;
+        padding-top: 5px;
+    
+    }
+    
+    .para h3{
+        font-size: 30px;
+        margin-top: 40px;
+    }
+    .para p{
+        font-size: 11px;
+        margin-top: -25px;
+    }
+    .parago{
+        display: none;
+    }
+    .par h3{
+        font-size: 30px;
+    }
+    .par p{
+        font-size: 11px;
+        margin-top: -25px;
+    
+    }
+    .second_section{
+        width: 100%;
+        text-align: center;
+        padding-top: 40px;
+        color: #fff;
+    }
+    
+    .maskgroup{
+        
+        height: 120px;
+        z-index: 1;
+        text-align: center;
+        align-items: center;
+        top: -50px;
+    }
+    .boxx{
+        text-align: center;
+        box-sizing: border-box;
+        height: 350px;
+        margin-left: 10px;
+        margin-right: 10px;
+        align-items: center;
+        border-radius: 20px;
+        background: rgb(230, 230, 230);
+        position: relative;
+        align-items: center;
+        padding: 4em;
+        background-image: url(/src/img/Maskgroup.png);
+    }
+    .second_section h1{
+        position: relative;
+        font-size: 20px;
+        font-weight: bold;
+        text-align: center;
+        align-items: center;
+        
+    }
+    .second_section p{
+        position: relative;
+        font-size: 8px;
+        margin-top: 10px;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+    
+    }
+    
+    button{
+        height: 35px;
+        justify-content: space-between;
+        padding: 10px;
+        margin-right: 10px;
+        margin-bottom: 10px;
+    }
+    .icon{
+        height: 17px;
+        float: left; 
+        margin-left: 8px;
+        margin-top: -2px;
+        
+    }
+    .iconn{
+        height: 18px;
+        float: left;  
+        margin-left: 5px; 
+        margin-top: -1px;
+    }
+    .btn{
+        border-radius: 20px;
+        text-align: center;
+        justify-content: space-between;
+        border-style: none;
+        padding: 10px;
+        font-weight: bold;
+        font-style: none;
+        width: 130px;
+    
+    }
+    .footer{
+        height: 80px;
+        padding-top: 10px;
+        position: relative
+    }
+    
+    
+}
+
+@media (min-width: 600px){
+    .pocketApp{
+        padding: 0;
+    }
+    .home{
+        padding: 0%;
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        background: #743ff4;
+        height: 671px;
+        justify-content: space-between;
+        align-content: center;
+      
+    }
+    .col-1{
+        display: flex;
+        flex-direction: row;
+        gap: 2em;
+        
+        
+    }
+    .col-1 img{
+        padding-top: 25px;
+        transform: scale(1.5);
+    }
+    .l-home{
+        padding-top: 4.5em;
+        padding-left: 5%;
+        color: #fff;
+    
+    }
+    .l-home img{
+        height: 50px;
+    }
+    .l-home h1{
+        font-size: 2.6em;
+        padding-top: 20px;
+    }
+    .web{
+        font-size: 16px;
+        color: rgb(218, 218, 218);
+        font-weight: 500;
+        display: block;
+    }
+    .mobile{
+        display: none;
+    }
+    
+    .r-home{
+        float: right;
+        display: flex;
+        position: relative;
+        padding-top: 4.5em;
+    }
+
+    .Groupone{
+        transform: scale(0.4);
+        margin-top: -20px;
+        font-weight: bold;
+    }
+    .col-1 h{
+        font-weight: bold;
+        color: #fff;
+    }
+    .Group{
+        right: 50px;
+        display: block;
+        margin-top: -76.5px;
+        height: 679px;
+        
+    }
+    .groupp{
+        display: none;
+    }
+    .Grouptwo{
+        position: absolute;
+        margin-top: 10px;
+        height: 550px;
+        padding-left: 50px;
+    }
+    .brands{
+        width: 100%;
+        text-align: center;
+        background-color: #fff;
+        margin: 0;
+        z-index: 99;
+        position: absolute;
+    }
+    .brands img{
+        width: 99%;
+    }
+
+    .brands p{
+        text-align: center;
+        font-weight: 500;
+        font-size: 30px;
+        z-index: 999;
+        color: rgb(180, 179, 179);
+    }
+    .youtube{
+        transform: scale(0.77);
+        align-items: center;
+    }
+
+
+    .section{
+        padding-top: 60px;
+        align-items: center;
+        width: 100%;
+        position: relative;
+        padding-top: 1150px;
+        text-align: center;
+    }
+    .box{
+        height: 50px;
+        position: sticky;
+        top: 15px;
+        width: 90%;
+        text-align: center;
+        background: rgb(230, 230, 230);
+        border-radius: 35px;
+        float: center;
+        padding: 7px;
+        margin-left: 40px;
+        margin-right: 0px;
+    }
+    .box>*{
+        text-align: center;
+    }
+    button{
+        height: 50px;
+    }
+    button:hover{
+        color: #fff;
+        background: #743ff4;
+    }
+    nav{
+        border-radius: 30px;
+        height: 50px;
+    }
+    .bn:hover{
+        background: #743ff4;
+    }
+    .bn{
+        background: rgb(230, 230, 230);
+        border-radius: 30px;
+        border-style: none;
+        width: 25%;
+        font-weight: bold;
+        font-size: 18px;
+        text-align: center;
+        height: 50px;
+    }
+    .section p{
+        font-size: 20px;
+    }
+    
+    .para{
+        display: none;
+    }
+    .parago{
+        display: block;
+    }
+    
+    .first_section{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        padding-left: 250px;
+        gap: 3em;
+        padding-bottom: 100px;
+        padding-top: 50px;
+        text-align: left;
+    }
+    .first_section h3{
+        font-size: 2.5em;
+        line-height: 1em;
+
+    }
+    .first_section p{
+        margin-top: -35px;  
+    }
+
+    .second_section{
+        text-align: center;
+        color: #fff;
+        padding-top: 100px;
+        margin: 0;
+    }
+    .second_section img{
+        align-items: center;
+        padding-left: 4%;
+        transform: scale(0.8);
+        top: -220px;
+        
+    }
+    .boxx{
+    box-sizing: border-box;
+    height: 360px;
+    margin-left: 15%;
+    align-items: center;
+    border-radius: 30px;
+    background: rgb(195, 195, 195);
+    position: relative;
+    width: 70%;
+    align-items: center;
+    padding: 4em;
+    background-image: url(/src/img/Maskgroup.png);
+    }
+    .second_section h1{
+        position: relative;
+        font-size: 35px;
+        font-weight: bold;
+        text-align: center;
+        align-items: center;
+
+    }
+    .second_section p{
+        position: relative;
+        font-size: 18px;
+        margin-top: 10px;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+    }
+    .icon{
+        height: 30px;
+        float: left; 
+        margin-right: 5px;
+    }
+    .iconn{
+        height: 25px;
+        float: left;  
+        margin-right: 5px; 
+    }
+    .btn{
+        border-radius: 20px;
+        text-align: center;
+        justify-content: space-between;
+        border-style: none;
+        font-weight: bold;
+        width: 150px;
+        height: 45px;
+        padding: 10px;
+        margin-right: 10px;
+        margin-bottom: 10px;
+    }
+    
+    
+    .maskgroup{
+        z-index: -1;
+        position: relative;
+    }
+    
+    .footer{
+        margin-top: 15px;
+        width: 1200px;
+        transform: scale(0.9);
+    }
+    .col2{
+        display: none;
+        
+    }
+    
+} 
